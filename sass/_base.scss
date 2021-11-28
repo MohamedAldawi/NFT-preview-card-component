@@ -1,0 +1,27 @@
+//COLORS
+:root {
+    --color-soft-blue: hsl(215, 51%, 70%);
+    --color-cyan: hsl(178, 100%, 50%);
+    --color-main-bg: hsl(217, 54%, 11%); //Very dark blue
+    --color-card-bg: hsl(216, 50%, 16%); //Very dark blue
+    --color-line: hsl(215, 32%, 27%);
+    --color-White: hsl(0, 0%, 100%);
+    --color-attribution: hsl(228, 45%, 44%);
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    
+    font-size: 62.5%; // 1rem = 10px; 10px/16px (browser default) = 62.5%
+}
+
+body {
+    background: var(--color-main-bg);
+    font-family: 'Outfit', sans-serif;
+}
