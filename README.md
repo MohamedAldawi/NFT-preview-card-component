@@ -24,7 +24,7 @@ The user should be able to:
 
 ### Screenshots
 
-![](./design/mobile-design.jpg)    ![](./design/mobile-design.jpg)
+![](./design/desktop-design.jpg)   ![](./design/active-states.jpg) 
 
 ### Links
 
@@ -38,7 +38,7 @@ The user should be able to:
 - Semantic HTML5 markup
 - Scss preprocessor to generate Css
 - Flexbox
-- Mobile-first Technique
+- Desktop-first workflow
 
 ### Useful resources
 
