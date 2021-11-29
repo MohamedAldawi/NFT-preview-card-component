@@ -24,7 +24,7 @@ The user should be able to:
 
 ### Screenshots
 
-![](./design/Screenshot.png)
+![](./design/mobile-design.jpg)    ![](./design/mobile-design.jpg)
 
 ### Links
 
