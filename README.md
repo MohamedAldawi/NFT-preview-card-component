@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
+This is a solution for the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
 ## Table of contents
 
@@ -20,25 +20,25 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 The user should be able to:
 
 - View the layout depending on their device's screen size.
-- See active states for interactive elements
+- See active states for interactive elements.
 
 ### Screenshots
 
-![](./SS/Screenshot.png)
+![](./design/desktop-design.jpg)   ![](./design/active-states.jpg) 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MohamedAldawi/NFT-preview-card-component)
-- Live Site URL: [Add live site URL here](https://aldawi-web-frontend-mentor-card.netlify.app/)
+- Solution URL: [Github solution URL](https://github.com/MohamedAldawi/NFT-preview-card-component)
+- Live demo URL: [Netlify URL](https://aldawi-web-frontend-mentor-card.netlify.app/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- Scss preprocessor to generate Css
+- Sass preprocessor to generate Css
 - Flexbox
-- Mobile-first Technique
+- Desktop-first workflow
 
 ### Useful resources
 
