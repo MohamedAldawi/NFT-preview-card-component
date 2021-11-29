@@ -80,7 +80,7 @@ p {
   .card__details > p {
     margin: 2rem 0 1.1rem 0;
     font-size: 1.8rem; }
-  .card__details > h2 {
+  .card__details > h1 {
     font-size: 2rem; }
   .card__details .font-white {
     color: var(--color-White);
