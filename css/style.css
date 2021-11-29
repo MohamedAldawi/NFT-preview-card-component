@@ -91,12 +91,12 @@ p {
 .card-content {
   display: flex;
   justify-content: space-between; }
-  .card-content span {
+  .card-content .span {
     display: flex; }
-    .card-content span img {
+    .card-content .span img {
       height: 1.8rem;
       margin: 2.1rem 0 2.5rem 0; }
-    .card-content span p {
+    .card-content .span p {
       margin-left: .8rem;
       margin-top: 1.7rem; }
 
@@ -107,16 +107,16 @@ p {
     width: 3.5rem;
     height: 3.5rem;
     margin-top: 1.5rem; }
-  .card__footer span {
+  .card__footer .span {
     display: flex;
     margin: 2.1rem 1.5rem .8rem 1.5rem; }
-    .card__footer span p {
+    .card__footer .span p {
       font-size: 1.5rem;
       margin-left: .5rem; }
-    .card__footer span .font-white {
+    .card__footer .span .font-white {
       color: var(--color-White);
       cursor: pointer; }
-    .card__footer span .font-white:hover {
+    .card__footer .span .font-white:hover {
       color: var(--color-cyan); }
 
 .attribution {
