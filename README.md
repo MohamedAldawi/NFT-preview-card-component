@@ -28,15 +28,15 @@ The user should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MohamedAldawi/NFT-preview-card-component)
-- Live Site URL: [Add live site URL here](https://aldawi-web-frontend-mentor-card.netlify.app/)
+- Solution URL: [Github solution URL](https://github.com/MohamedAldawi/NFT-preview-card-component)
+- Live demo URL: [Netlify URL](https://aldawi-web-frontend-mentor-card.netlify.app/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- Scss preprocessor to generate Css
+- Sass preprocessor to generate Css
 - Flexbox
 - Desktop-first workflow
 
